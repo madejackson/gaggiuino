@@ -89,7 +89,7 @@ void loop(void) {
   brewDetect();
   modeSelect();
   lcdRefresh();
-  systemHealthCheck(0.8f);
+  //systemHealthCheck(0.8f);
 }
 
 //##############################################################################################################################
